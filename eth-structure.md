@@ -1,0 +1,41 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e7]:
+        - generic [ref=e8]
+        - generic [ref=e39]
+      - generic [ref=e49]:
+        - generic [ref=e50]
+        - generic [ref=e445]
+        - generic [ref=e2400]
+        - generic [ref=e2515]
+        - generic [ref=e2563]
+        - generic [ref=e552]
+        - generic [ref=e3013]
+        - generic [ref=e606]
+        - generic [ref=e611]
+        - generic [ref=e614]
+        - heading "Similar Coins to Ethereum" [level=3] [ref=e901]
+        - generic [ref=e911]
+    - generic [ref=e1768]:
+      - generic [ref=e1771]:
+        - generic
+        - generic
+      - generic [ref=e1858]:
+        - generic [ref=e1859]: © 2026 CoinMarketCap. All rights reserved
+        - generic [ref=e1860]
+  - iframe [ref=e1861]:
+    
+  - alert [ref=e1862]
+  - generic:
+    - generic:
+      - img
+    - generic [ref=e3936] [cursor=pointer]:
+      - generic [ref=e3938]:
+        - img [ref=e3939]
+        - generic [ref=e3941]: Ask CMC AI
+      - button "Shift + /" [ref=e3942]:
+        - generic [ref=e3945]: Shift + /
+    - generic: \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0 \a0
+  - generic:
+    - generic: U
