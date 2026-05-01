@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.*
+
+# Playwright
+playwright-report/
+test-results/
+
+# Local prompt files
+prompt/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,14 @@
+{
+  "name": "coinmarket_app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Base Node.js project for local Playwright usage.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test:e2e": "playwright test"
+  },
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  }
+}
