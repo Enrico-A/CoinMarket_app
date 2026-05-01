@@ -28,6 +28,7 @@ test-results/
 
 # Local prompt files
 prompt/
+.playwright-mcp/
 
 # OS / editors
 .DS_Store
